@@ -1,6 +1,6 @@
 {
-  "name": "Evolv Pool",
-  "description": "EVOLV Stake Pool",
-  "ticker": "EVOLV",
+  "name": "BIOME Pool",
+  "description": "BIOME Stake Pool",
+  "ticker": "BIOME",
   "homepage": "https://github.com/wir3code"
 }
